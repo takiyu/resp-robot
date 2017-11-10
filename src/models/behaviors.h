@@ -146,7 +146,7 @@ public:
     // Static parameters
     const float SPEED = 3.0f, ACCEL = 0.5f, WAIT_MS = 600.f;
     const int N_WAVE = 10, N_WAVE_AUTO = 2;
-    const int PROB_DENOM = (TYPE == Type::BOTH_RAND ? 4000 : 2000);
+    const int PROB_DENOM = (TYPE == Type::BOTH_RAND ? 2000 : 1000);
 
 private:
     void declareWeights();

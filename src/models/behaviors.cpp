@@ -196,9 +196,9 @@ void SleepBehavior::behave() {
         MovementCtr b;
         // Move
         b.body.set(glm::vec3(0.f, 0.f, 100.f), getWeight("body"));
-        //b.head.set(glm::vec3(0.f, 0.f, 100.f), getWeight("head"));
-        //b.eyes.set(glm::vec3(0.f, 0.f, 100.f), getWeight("eyes"));
-        b.eyelid.set(0.9f, getWeight("eyelid"));
+        b.head.set(glm::vec3(0.f, 0.f, 100.f), getWeight("head"));
+        b.eyes.set(glm::vec3(0.f, 0.f, 100.f), getWeight("eyes"));
+        b.eyelid.set(0.f, getWeight("eyelid"));
         {
             // Consider body swing
             auto pos_right = transformPos(POS_RIGHT, s.robovie_body_tf_mat);
@@ -210,8 +210,8 @@ void SleepBehavior::behave() {
         b.voice.set("", getWeight("voice"));
         // Speed
         b.body.setSpeed(overwriteSpeed(SPEED), overwriteAccel(ACCEL));
-        //b.head.setSpeed(overwriteSpeed(SPEED), overwriteAccel(ACCEL));
-        //b.eyes.setSpeed(overwriteSpeed(SPEED), overwriteAccel(ACCEL));
+        b.head.setSpeed(overwriteSpeed(SPEED), overwriteAccel(ACCEL));
+        b.eyes.setSpeed(overwriteSpeed(SPEED), overwriteAccel(ACCEL));
         b.eyelid.setSpeed(overwriteSpeed(SPEED), overwriteAccel(ACCEL));
         b.right_arm.setSpeed(overwriteSpeed(SPEED), overwriteAccel(ACCEL));
         b.left_arm.setSpeed(overwriteSpeed(SPEED), overwriteAccel(ACCEL));
@@ -236,8 +236,7 @@ bool MoveHeadBehavior::shouldOccur() {
 }
 
 void MoveHeadBehavior::behave() {
-    for (int i = 0; i < 1; i++) {
-//     while (true) {
+    while (true) {
         // Copy to local
         SensorCtr s = this->sensor_ctr.copy();
 
@@ -440,9 +439,7 @@ void HandWaveBehavior::behave() {
     const std::pair<glm::vec3, glm::vec3> OUTER_POS_RIGHT(  // x flip of left
         glm::vec3(-12.f, 20.f, 7.f), glm::vec3(-15.f, 25.f, 11.f));
 
-    int n = (auto_occurring ? N_WAVE_AUTO : N_WAVE);
-    for (int i = 0; i < n; i++) {
-        std::cout << i << std::endl;
+    for (int i = 0; i < auto_occurring ? N_WAVE_AUTO : N_WAVE; i++) {
         // Inner
         {
             // Copy to local
@@ -1062,9 +1059,9 @@ void BreathBehavior::behave() {
             glm::vec3 p = rotatePos(s.robovie_head_regard_pos, HEAD_DEG * dir,
                                     glm::vec3(1, 0, 0), s.robovie_head_tf_mat);
             // Set absolute position and speed
-//             b.head.set(p, getWeight("head"));
-//             b.head.setSpeed(overwriteSpeed(SPEED_HEAD),
-//                             overwriteAccel(ACCEL_HEAD));
+            b.head.set(p, getWeight("head"));
+            b.head.setSpeed(overwriteSpeed(SPEED_HEAD),
+                            overwriteAccel(ACCEL_HEAD));
         }
 
         // Left arm
