@@ -1,0 +1,320 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='hand_imgs/1.png'>
+    <box top='26' left='368' width='226' height='344'/>
+  </image>
+  <image file='hand_imgs/10.png'>
+    <box top='-3' left='83' width='172' height='263'/>
+  </image>
+  <image file='hand_imgs/100.png'>
+    <box top='93' left='403' width='210' height='277'/>
+  </image>
+  <image file='hand_imgs/101.png'>
+    <box top='88' left='401' width='143' height='233'/>
+  </image>
+  <image file='hand_imgs/102.png'>
+    <box top='66' left='327' width='191' height='321'/>
+  </image>
+  <image file='hand_imgs/103.png'>
+    <box top='76' left='289' width='195' height='282'/>
+  </image>
+  <image file='hand_imgs/104.png'>
+    <box top='89' left='275' width='200' height='279'/>
+  </image>
+  <image file='hand_imgs/11.png'>
+    <box top='106' left='546' width='188' height='264'/>
+  </image>
+  <image file='hand_imgs/12.png'>
+    <box top='43' left='605' width='204' height='315'/>
+  </image>
+  <image file='hand_imgs/13.png'>
+    <box top='145' left='617' width='192' height='272'/>
+  </image>
+  <image file='hand_imgs/14.png'>
+    <box top='91' left='109' width='176' height='284'/>
+  </image>
+  <image file='hand_imgs/15.png'>
+    <box top='54' left='198' width='160' height='241'/>
+  </image>
+  <image file='hand_imgs/16.png'>
+    <box top='111' left='320' width='119' height='175'/>
+  </image>
+  <image file='hand_imgs/17.png'>
+    <box top='179' left='576' width='102' height='157'/>
+  </image>
+  <image file='hand_imgs/18.png'>
+    <box top='153' left='705' width='129' height='196'/>
+  </image>
+  <image file='hand_imgs/19.png'>
+    <box top='86' left='338' width='170' height='286'/>
+  </image>
+  <image file='hand_imgs/2.png'>
+    <box top='93' left='572' width='172' height='250'/>
+  </image>
+  <image file='hand_imgs/20.png'>
+    <box top='93' left='213' width='179' height='298'/>
+  </image>
+  <image file='hand_imgs/21.png'>
+    <box top='98' left='117' width='241' height='281'/>
+  </image>
+  <image file='hand_imgs/22.png'>
+    <box top='96' left='224' width='165' height='244'/>
+  </image>
+  <image file='hand_imgs/23.png'>
+    <box top='89' left='332' width='154' height='230'/>
+  </image>
+  <image file='hand_imgs/24.png'>
+    <box top='22' left='401' width='176' height='265'/>
+  </image>
+  <image file='hand_imgs/25.png'>
+    <box top='82' left='571' width='143' height='235'/>
+  </image>
+  <image file='hand_imgs/26.png'>
+    <box top='80' left='259' width='220' height='288'/>
+  </image>
+  <image file='hand_imgs/27.png'>
+    <box top='66' left='81' width='179' height='280'/>
+  </image>
+  <image file='hand_imgs/28.png'>
+    <box top='0' left='59' width='185' height='268'/>
+  </image>
+  <image file='hand_imgs/29.png'>
+    <box top='22' left='416' width='153' height='233'/>
+  </image>
+  <image file='hand_imgs/3.png'>
+    <box top='115' left='698' width='168' height='230'/>
+  </image>
+  <image file='hand_imgs/30.png'>
+    <box top='202' left='334' width='150' height='203'/>
+  </image>
+  <image file='hand_imgs/31.png'>
+    <box top='132' left='575' width='136' height='210'/>
+  </image>
+  <image file='hand_imgs/32.png'>
+    <box top='158' left='283' width='138' height='214'/>
+  </image>
+  <image file='hand_imgs/33.png'>
+    <box top='136' left='93' width='143' height='251'/>
+  </image>
+  <image file='hand_imgs/34.png'>
+    <box top='84' left='119' width='250' height='275'/>
+  </image>
+  <image file='hand_imgs/35.png'>
+    <box top='77' left='523' width='176' height='280'/>
+  </image>
+  <image file='hand_imgs/36.png'>
+    <box top='88' left='520' width='217' height='286'/>
+  </image>
+  <image file='hand_imgs/37.png'>
+    <box top='77' left='225' width='204' height='305'/>
+  </image>
+  <image file='hand_imgs/38.png'>
+    <box top='63' left='29' width='178' height='239'/>
+  </image>
+  <image file='hand_imgs/39.png'>
+    <box top='140' left='244' width='167' height='216'/>
+  </image>
+  <image file='hand_imgs/4.png'>
+    <box top='128' left='463' width='153' height='211'/>
+  </image>
+  <image file='hand_imgs/40.png'>
+    <box top='89' left='324' width='186' height='259'/>
+  </image>
+  <image file='hand_imgs/41.png'>
+    <box top='156' left='60' width='186' height='236'/>
+  </image>
+  <image file='hand_imgs/42.png'>
+    <box top='114' left='111' width='179' height='267'/>
+  </image>
+  <image file='hand_imgs/43.png'>
+    <box top='107' left='177' width='114' height='154'/>
+  </image>
+  <image file='hand_imgs/44.png'>
+    <box top='49' left='285' width='92' height='135'/>
+  </image>
+  <image file='hand_imgs/45.png'>
+    <box top='58' left='376' width='103' height='136'/>
+  </image>
+  <image file='hand_imgs/46.png'>
+    <box top='77' left='346' width='1' height='1'/>
+    <box top='80' left='245' width='105' height='144'/>
+  </image>
+  <image file='hand_imgs/47.png'>
+    <box top='90' left='81' width='133' height='185'/>
+  </image>
+  <image file='hand_imgs/48.png'>
+    <box top='68' left='233' width='108' height='157'/>
+  </image>
+  <image file='hand_imgs/49.png'>
+    <box top='72' left='353' width='172' height='278'/>
+  </image>
+  <image file='hand_imgs/5.png'>
+    <box top='116' left='250' width='133' height='232'/>
+  </image>
+  <image file='hand_imgs/50.png'>
+    <box top='102' left='358' width='202' height='302'/>
+  </image>
+  <image file='hand_imgs/51.png'>
+    <box top='121' left='338' width='196' height='299'/>
+  </image>
+  <image file='hand_imgs/52.png'>
+    <box top='115' left='394' width='206' height='312'/>
+  </image>
+  <image file='hand_imgs/53.png'>
+    <box top='124' left='436' width='213' height='305'/>
+  </image>
+  <image file='hand_imgs/54.png'>
+    <box top='110' left='445' width='134' height='200'/>
+  </image>
+  <image file='hand_imgs/55.png'>
+    <box top='158' left='474' width='162' height='216'/>
+  </image>
+  <image file='hand_imgs/56.png'>
+    <box top='142' left='458' width='163' height='223'/>
+  </image>
+  <image file='hand_imgs/57.png'>
+    <box top='133' left='431' width='161' height='241'/>
+  </image>
+  <image file='hand_imgs/58.png'>
+    <box top='135' left='415' width='161' height='245'/>
+  </image>
+  <image file='hand_imgs/59.png'>
+    <box top='127' left='366' width='161' height='245'/>
+  </image>
+  <image file='hand_imgs/6.png'>
+    <box top='115' left='260' width='142' height='205'/>
+  </image>
+  <image file='hand_imgs/60.png'>
+    <box top='129' left='327' width='167' height='245'/>
+  </image>
+  <image file='hand_imgs/61.png'>
+    <box top='131' left='288' width='175' height='235'/>
+  </image>
+  <image file='hand_imgs/62.png'>
+    <box top='133' left='272' width='170' height='250'/>
+  </image>
+  <image file='hand_imgs/63.png'>
+    <box top='128' left='281' width='164' height='250'/>
+  </image>
+  <image file='hand_imgs/64.png'>
+    <box top='128' left='286' width='160' height='257'/>
+  </image>
+  <image file='hand_imgs/65.png'>
+    <box top='122' left='307' width='156' height='261'/>
+  </image>
+  <image file='hand_imgs/66.png'>
+    <box top='122' left='316' width='170' height='250'/>
+  </image>
+  <image file='hand_imgs/67.png'>
+    <box top='127' left='332' width='163' height='256'/>
+  </image>
+  <image file='hand_imgs/68.png'>
+    <box top='125' left='334' width='161' height='253'/>
+  </image>
+  <image file='hand_imgs/69.png'>
+    <box top='125' left='336' width='151' height='257'/>
+  </image>
+  <image file='hand_imgs/7.png'>
+    <box top='130' left='84' width='135' height='218'/>
+  </image>
+  <image file='hand_imgs/70.png'>
+  </image>
+  <image file='hand_imgs/71.png'>
+    <box top='137' left='322' width='172' height='253'/>
+  </image>
+  <image file='hand_imgs/72.png'>
+    <box top='139' left='292' width='181' height='243'/>
+  </image>
+  <image file='hand_imgs/73.png'>
+    <box top='131' left='263' width='184' height='260'/>
+  </image>
+  <image file='hand_imgs/74.png'>
+    <box top='127' left='236' width='195' height='273'/>
+  </image>
+  <image file='hand_imgs/75.png'>
+    <box top='125' left='204' width='217' height='265'/>
+  </image>
+  <image file='hand_imgs/76.png'>
+    <box top='130' left='191' width='231' height='268'/>
+  </image>
+  <image file='hand_imgs/77.png'>
+    <box top='130' left='210' width='227' height='263'/>
+  </image>
+  <image file='hand_imgs/78.png'>
+    <box top='137' left='227' width='197' height='273'/>
+  </image>
+  <image file='hand_imgs/79.png'>
+    <box top='142' left='222' width='185' height='262'/>
+  </image>
+  <image file='hand_imgs/8.png'>
+    <box top='128' left='244' width='145' height='208'/>
+  </image>
+  <image file='hand_imgs/80.png'>
+    <box top='130' left='262' width='173' height='272'/>
+  </image>
+  <image file='hand_imgs/81.png'>
+    <box top='130' left='337' width='161' height='259'/>
+  </image>
+  <image file='hand_imgs/82.png'>
+    <box top='121' left='384' width='162' height='273'/>
+  </image>
+  <image file='hand_imgs/83.png'>
+    <box top='130' left='376' width='166' height='260'/>
+  </image>
+  <image file='hand_imgs/84.png'>
+    <box top='120' left='379' width='165' height='273'/>
+  </image>
+  <image file='hand_imgs/85.png'>
+    <box top='133' left='441' width='166' height='253'/>
+  </image>
+  <image file='hand_imgs/86.png'>
+    <box top='132' left='475' width='157' height='268'/>
+  </image>
+  <image file='hand_imgs/87.png'>
+    <box top='145' left='484' width='161' height='255'/>
+  </image>
+  <image file='hand_imgs/88.png'>
+    <box top='145' left='457' width='191' height='266'/>
+  </image>
+  <image file='hand_imgs/89.png'>
+    <box top='133' left='413' width='192' height='271'/>
+  </image>
+  <image file='hand_imgs/9.png'>
+    <box top='10' left='318' width='149' height='222'/>
+  </image>
+  <image file='hand_imgs/90.png'>
+    <box top='111' left='361' width='166' height='266'/>
+  </image>
+  <image file='hand_imgs/91.png'>
+    <box top='109' left='326' width='174' height='266'/>
+  </image>
+  <image file='hand_imgs/92.png'>
+    <box top='108' left='317' width='174' height='266'/>
+  </image>
+  <image file='hand_imgs/93.png'>
+    <box top='88' left='288' width='180' height='275'/>
+  </image>
+  <image file='hand_imgs/94.png'>
+    <box top='47' left='290' width='182' height='289'/>
+  </image>
+  <image file='hand_imgs/95.png'>
+    <box top='37' left='299' width='190' height='304'/>
+  </image>
+  <image file='hand_imgs/96.png'>
+    <box top='59' left='357' width='183' height='297'/>
+  </image>
+  <image file='hand_imgs/97.png'>
+    <box top='72' left='380' width='189' height='284'/>
+  </image>
+  <image file='hand_imgs/98.png'>
+    <box top='74' left='383' width='195' height='295'/>
+  </image>
+  <image file='hand_imgs/99.png'>
+    <box top='87' left='392' width='206' height='280'/>
+  </image>
+</images>
+</dataset>

@@ -1,0 +1,111 @@
+{
+  "No sensor -> Sleep": [
+    {
+      "sensor": {},
+      "behavior": {
+        "head": { "per": { "Breath": 0.15, "Sleep": 0.85 } },
+        "right_arm": { "per": { "Breath": 0.15, "Sleep": 0.85 } },
+        "left_arm": { "per": { "Breath": 0.15, "Sleep": 0.85 } },
+        "eyelid": { "per": { "Sleep": 1.0 } },
+        "body": { "per": { "Sleep": 1.0 } },
+        "voice": { "per": { "Sleep": 1.0 } }
+      },
+      "period_ms": 1000,
+      "importance": 1.0
+    }
+  ],
+  "Lookat obj -> face": [
+    {
+      "sensor": {
+        "object": { "idx": 0, "pos": [0, 0, 50] }
+      },
+      "behavior": {
+        "eyes": { "val": [0, 0, 50] },
+        "eyelid": { "val": 0.9 },
+        "head": { "per": { "Breath": 0.15 } }
+      },
+      "period_ms": 1000,
+      "importance": 1.0
+    },
+    {
+      "sensor": {
+        "face": { "idx": 0, "pos": [0, 0, 100] },
+        "object": { "idx": 0, "pos": [0, 0, 50] }
+      },
+      "behavior": {
+        "eyes": { "val": [0, 0, 100] },
+        "eyelid": { "val": 0.9 },
+        "head": { "per": { "Breath": 0.15 } }
+      },
+      "period_ms": 1000,
+      "importance": 1.0
+    }
+  ],
+  "Eye contact": [
+    {
+      "sensor": {
+        "face": { "idx": 0, "pos": [0, 0, 100], "attention": "robovie" },
+        "object": { "idx": 0, "pos": [0, 0, 50] }
+      },
+      "behavior": {
+        "eyes": { "val": [0, 0, 100] },
+        "eyelid": { "val": 0.9 }
+      },
+      "period_ms": 1000,
+      "importance": 1.0
+    }
+  ],
+  "Joint attention": [
+    {
+      "sensor": {
+        "face": { "idx": 0, "pos": [0, 0, 100], "attention": "object0" },
+        "object": { "idx": 0, "pos": [0, 0, 50] }
+      },
+      "behavior": {
+        "eyes": { "val": [0, 0, 50] },
+        "eyelid": { "val": 0.9 }
+      },
+      "period_ms": 1000,
+      "importance": 1.0
+    }
+  ],
+  "Voice end -> Nod": [
+    {
+      "sensor": {
+        "face": { "idx": 0, "pos": [0, 0, 100] },
+        "vad": { "finished": true, "len_ms": 1000 }
+      },
+      "behavior": {
+        "head": { "per": { "Nod": 0.85, "Breath": 0.15 } }
+      },
+      "period_ms": 1000,
+      "importance": 1.0
+    }
+  ],
+  "hand -> hand wave": [
+    {
+      "sensor": {
+        "face": { "idx": 0, "pos": [0, 0, 100] },
+        "object": { "idx": 2, "pos": [0, 0, 50] }
+      },
+      "behavior": {
+        "right_arm": { "per": { "Breath": 0.15, "HandWave[BothResponse]": 0.85 } },
+        "left_arm": { "per": { "Breath": 0.15, "HandWave[BothResponse]": 0.85 } }
+      },
+      "period_ms": 4000,
+      "importance": 1.0
+    }
+  ],
+  "Personal space": [
+    {
+      "sensor": {
+        "object": { "idx": 0, "pos": [0, 20, 10] }
+      },
+      "behavior": {
+        "head": { "per": { "PersonalSpace": 0.5 } }
+      },
+      "period_ms": 1000,
+      "importance": 1.0
+    }
+  ]
+}

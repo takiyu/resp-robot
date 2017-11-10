@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='green_apple_imgs/1.png'>
+    <box top='100' left='324' width='122' height='112'/>
+  </image>
+  <image file='green_apple_imgs/10.png'>
+    <box top='345' left='252' width='93' height='90'/>
+  </image>
+  <image file='green_apple_imgs/11.png'>
+    <box top='246' left='110' width='1' height='1'/>
+    <box top='244' left='96' width='84' height='80'/>
+  </image>
+  <image file='green_apple_imgs/12.png'>
+    <box top='79' left='249' width='99' height='99'/>
+  </image>
+  <image file='green_apple_imgs/13.png'>
+    <box top='56' left='478' width='123' height='116'/>
+  </image>
+  <image file='green_apple_imgs/14.png'>
+    <box top='282' left='460' width='111' height='105'/>
+  </image>
+  <image file='green_apple_imgs/15.png'>
+    <box top='319' left='261' width='83' height='86'/>
+  </image>
+  <image file='green_apple_imgs/16.png'>
+    <box top='293' left='151' width='65' height='67'/>
+  </image>
+  <image file='green_apple_imgs/17.png'>
+    <box top='207' left='158' width='58' height='54'/>
+  </image>
+  <image file='green_apple_imgs/18.png'>
+    <box top='140' left='73' width='68' height='64'/>
+  </image>
+  <image file='green_apple_imgs/19.png'>
+    <box top='154' left='335' width='99' height='91'/>
+  </image>
+  <image file='green_apple_imgs/2.png'>
+    <box top='96' left='173' width='107' height='103'/>
+  </image>
+  <image file='green_apple_imgs/20.png'>
+    <box top='235' left='153' width='95' height='92'/>
+  </image>
+  <image file='green_apple_imgs/21.png'>
+    <box top='64' left='132' width='61' height='63'/>
+  </image>
+  <image file='green_apple_imgs/22.png'>
+    <box top='209' left='236' width='75' height='76'/>
+  </image>
+  <image file='green_apple_imgs/23.png'>
+    <box top='258' left='374' width='59' height='54'/>
+  </image>
+  <image file='green_apple_imgs/24.png'>
+    <box top='112' left='438' width='55' height='58'/>
+  </image>
+  <image file='green_apple_imgs/25.png'>
+    <box top='107' left='308' width='110' height='107'/>
+  </image>
+  <image file='green_apple_imgs/26.png'>
+    <box top='182' left='62' width='113' height='112'/>
+  </image>
+  <image file='green_apple_imgs/27.png'>
+    <box top='201' left='267' width='135' height='143'/>
+  </image>
+  <image file='green_apple_imgs/28.png'>
+    <box top='181' left='376' width='101' height='101'/>
+  </image>
+  <image file='green_apple_imgs/29.png'>
+    <box top='81' left='323' width='88' height='84'/>
+  </image>
+  <image file='green_apple_imgs/3.png'>
+    <box top='248' left='132' width='105' height='102'/>
+  </image>
+  <image file='green_apple_imgs/30.png'>
+    <box top='159' left='120' width='97' height='93'/>
+  </image>
+  <image file='green_apple_imgs/31.png'>
+    <box top='34' left='134' width='82' height='81'/>
+  </image>
+  <image file='green_apple_imgs/32.png'>
+    <box top='222' left='215' width='110' height='108'/>
+  </image>
+  <image file='green_apple_imgs/33.png'>
+    <box top='129' left='311' width='76' height='73'/>
+  </image>
+  <image file='green_apple_imgs/34.png'>
+    <box top='152' left='179' width='75' height='67'/>
+  </image>
+  <image file='green_apple_imgs/35.png'>
+    <box top='151' left='437' width='116' height='106'/>
+  </image>
+  <image file='green_apple_imgs/36.png'>
+    <box top='209' left='261' width='67' height='64'/>
+  </image>
+  <image file='green_apple_imgs/37.png'>
+    <box top='204' left='312' width='134' height='122'/>
+  </image>
+  <image file='green_apple_imgs/38.png'>
+    <box top='185' left='169' width='106' height='98'/>
+  </image>
+  <image file='green_apple_imgs/39.png'>
+    <box top='123' left='476' width='111' height='102'/>
+  </image>
+  <image file='green_apple_imgs/4.png'>
+    <box top='91' left='185' width='111' height='110'/>
+  </image>
+  <image file='green_apple_imgs/40.png'>
+    <box top='50' left='253' width='122' height='118'/>
+  </image>
+  <image file='green_apple_imgs/41.png'>
+    <box top='69' left='92' width='116' height='110'/>
+  </image>
+  <image file='green_apple_imgs/42.png'>
+    <box top='353' left='309' width='95' height='93'/>
+  </image>
+  <image file='green_apple_imgs/43.png'>
+    <box top='363' left='505' width='94' height='94'/>
+  </image>
+  <image file='green_apple_imgs/44.png'>
+    <box top='246' left='131' width='107' height='94'/>
+  </image>
+  <image file='green_apple_imgs/45.png'>
+    <box top='196' left='150' width='67' height='63'/>
+  </image>
+  <image file='green_apple_imgs/46.png'>
+    <box top='192' left='32' width='68' height='57'/>
+  </image>
+  <image file='green_apple_imgs/47.png'>
+    <box top='86' left='2' width='90' height='79'/>
+  </image>
+  <image file='green_apple_imgs/48.png'>
+    <box top='80' left='227' width='102' height='94'/>
+  </image>
+  <image file='green_apple_imgs/49.png'>
+    <box top='171' left='434' width='120' height='109'/>
+  </image>
+  <image file='green_apple_imgs/5.png'>
+    <box top='167' left='374' width='96' height='96'/>
+  </image>
+  <image file='green_apple_imgs/50.png'>
+    <box top='214' left='307' width='212' height='194'/>
+  </image>
+  <image file='green_apple_imgs/51.png'>
+    <box top='176' left='153' width='71' height='65'/>
+  </image>
+  <image file='green_apple_imgs/52.png'>
+    <box top='192' left='404' width='134' height='118'/>
+  </image>
+  <image file='green_apple_imgs/53.png'>
+    <box top='138' left='220' width='153' height='146'/>
+  </image>
+  <image file='green_apple_imgs/54.png'>
+    <box top='262' left='475' width='128' height='117'/>
+  </image>
+  <image file='green_apple_imgs/55.png'>
+    <box top='69' left='632' width='140' height='129'/>
+  </image>
+  <image file='green_apple_imgs/56.png'>
+    <box top='95' left='355' width='146' height='136'/>
+  </image>
+  <image file='green_apple_imgs/57.png'>
+    <box top='291' left='73' width='165' height='153'/>
+  </image>
+  <image file='green_apple_imgs/58.png'>
+    <box top='213' left='444' width='139' height='132'/>
+  </image>
+  <image file='green_apple_imgs/59.png'>
+    <box top='49' left='681' width='155' height='137'/>
+  </image>
+  <image file='green_apple_imgs/6.png'>
+    <box top='191' left='436' width='98' height='96'/>
+  </image>
+  <image file='green_apple_imgs/60.png'>
+    <box top='146' left='130' width='177' height='151'/>
+  </image>
+  <image file='green_apple_imgs/61.png'>
+    <box top='254' left='442' width='153' height='142'/>
+  </image>
+  <image file='green_apple_imgs/62.png'>
+    <box top='198' left='648' width='143' height='120'/>
+  </image>
+  <image file='green_apple_imgs/63.png'>
+    <box top='276' left='601' width='144' height='130'/>
+  </image>
+  <image file='green_apple_imgs/64.png'>
+    <box top='32' left='269' width='172' height='163'/>
+  </image>
+  <image file='green_apple_imgs/65.png'>
+    <box top='63' left='300' width='82' height='76'/>
+  </image>
+  <image file='green_apple_imgs/66.png'>
+    <box top='134' left='582' width='109' height='92'/>
+  </image>
+  <image file='green_apple_imgs/67.png'>
+    <box top='265' left='634' width='97' height='86'/>
+  </image>
+  <image file='green_apple_imgs/68.png'>
+    <box top='352' left='152' width='115' height='110'/>
+  </image>
+  <image file='green_apple_imgs/69.png'>
+    <box top='232' left='81' width='130' height='113'/>
+  </image>
+  <image file='green_apple_imgs/7.png'>
+    <box top='104' left='177' width='80' height='79'/>
+  </image>
+  <image file='green_apple_imgs/70.png'>
+    <box top='137' left='320' width='129' height='124'/>
+  </image>
+  <image file='green_apple_imgs/71.png'>
+    <box top='91' left='473' width='281' height='254'/>
+  </image>
+  <image file='green_apple_imgs/72.png'>
+    <box top='52' left='106' width='320' height='292'/>
+  </image>
+  <image file='green_apple_imgs/73.png'>
+    <box top='212' left='528' width='167' height='150'/>
+  </image>
+  <image file='green_apple_imgs/74.png'>
+    <box top='236' left='178' width='145' height='135'/>
+  </image>
+  <image file='green_apple_imgs/75.png'>
+    <box top='121' left='352' width='93' height='80'/>
+  </image>
+  <image file='green_apple_imgs/76.png'>
+    <box top='40' left='530' width='114' height='105'/>
+  </image>
+  <image file='green_apple_imgs/77.png'>
+    <box top='66' left='132' width='127' height='117'/>
+  </image>
+  <image file='green_apple_imgs/78.png'>
+    <box top='53' left='112' width='125' height='113'/>
+  </image>
+  <image file='green_apple_imgs/79.png'>
+    <box top='228' left='142' width='140' height='126'/>
+  </image>
+  <image file='green_apple_imgs/8.png'>
+    <box top='193' left='434' width='83' height='80'/>
+  </image>
+  <image file='green_apple_imgs/80.png'>
+    <box top='236' left='462' width='135' height='135'/>
+  </image>
+  <image file='green_apple_imgs/81.png'>
+    <box top='192' left='307' width='165' height='163'/>
+  </image>
+  <image file='green_apple_imgs/82.png'>
+    <box top='112' left='621' width='156' height='135'/>
+  </image>
+  <image file='green_apple_imgs/83.png'>
+    <box top='210' left='513' width='169' height='162'/>
+  </image>
+  <image file='green_apple_imgs/84.png'>
+    <box top='263' left='175' width='182' height='175'/>
+  </image>
+  <image file='green_apple_imgs/9.png'>
+    <box top='350' left='475' width='84' height='86'/>
+  </image>
+</images>
+</dataset>

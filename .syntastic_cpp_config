@@ -1,0 +1,16 @@
+-I/usr/include/boost
+-I./3rdParty
+-I./3rdParty/dlib
+-I./3rdParty/OpenFace/lib/FaceAnalyser/include
+-I./3rdParty/OpenFace/lib/LandmarkDetector/include
+-I./3rdParty/webrtc/common_audio/vad/include
+-I./3rdParty/julius/libjulius/include
+-I./3rdParty/julius/libsent/include
+-I./3rdParty/hts_engine/include
+-I./3rdParty/open_jtalk
+-I./3rdParty/imgui
+-I./3rdParty/pose-hg
+-I./3rdParty/tiny_obj_loader
+-I./3rdParty/gnuplot-iostream
+-I./3rdParty/picojson
+-std=c++14
